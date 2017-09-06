@@ -1,0 +1,68 @@
+[
+  {
+    "discordid": "101340862943866880",
+    "headshotratio": 38.63,
+    "headshots": 90,
+    "kda": 6.3,
+    "kills": 233,
+    "longestkill": 470,
+    "mostkills": 15,
+    "totaldamage": 27423,
+    "winratio": 22.92
+  },
+  {
+    "discordid": "189153505620131840",
+    "headshotratio": 64.29,
+    "headshots": 18,
+    "kda": 28.0,
+    "kills": 28,
+    "longestkill": 656,
+    "mostkills": 22,
+    "totaldamage": 3054,
+    "winratio": 50.0
+  },
+  {
+    "discordid": "246781527608918017",
+    "headshotratio": 34.38,
+    "headshots": 33,
+    "kda": 12.0,
+    "kills": 96,
+    "longestkill": 988,
+    "mostkills": 35,
+    "totaldamage": 8836,
+    "winratio": 20.0
+  },
+  {
+    "discordid": "179677325678346242",
+    "headshotratio": 38.1,
+    "headshots": 16,
+    "kda": 0.0,
+    "kills": 42,
+    "longestkill": 968,
+    "mostkills": 27,
+    "totaldamage": 4218,
+    "winratio": 100.0
+  },
+  {
+    "discordid": "102870112314335232",
+    "headshotratio": 33.82,
+    "headshots": 208,
+    "kda": 5.69,
+    "kills": 615,
+    "longestkill": 999,
+    "mostkills": 28,
+    "totaldamage": 78780,
+    "winratio": 13.6
+  },
+  {
+    "discordid": "157901529750175745",
+    "headshotratio": 12.5,
+    "headshots": 6,
+    "kda": 1.14,
+    "kills": 48,
+    "longestkill": 377,
+    "mostkills": 5,
+    "totaldamage": 6713,
+    "winratio": 4.55
+  }
+]
